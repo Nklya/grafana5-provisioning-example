@@ -1,6 +1,6 @@
 # Grafana 5.0 dashboards and datasource provisioning example
 
-[![Build Status](https://img.shields.io/travis/cndies/grafana5-provisioning-example.svg)](https://travis-ci.org/cndies/grafana5-provisioning-example)
+[![Build Status](https://img.shields.io/travis/cndies/grafana5-provisioning-example.svg)](https://travis-ci.com/cndies/grafana5-provisioning-example)
 
 This is [Grafana 5.0 dashboards and datasource provisioning example](http://docs.grafana.org/guides/whats-new-in-v5)
 
